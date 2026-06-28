@@ -1,0 +1,6 @@
+{
+  "name": "HomeForge",
+  "description": "An intelligent living space analyzer and layout generator that respects what you already own.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
